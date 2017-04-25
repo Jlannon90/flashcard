@@ -1,0 +1,28 @@
+.bluecard {
+  background-image: url("../img/blueflash.jpg");
+  background-size: cover;
+  height: 250px;
+}
+
+.yellowcard {
+  background-image: url("../img/yellowflash.jpg");
+  background-size: cover;
+  height: 250px;
+}
+
+.pinkcard {
+  background-image: url("../img/pinkflash.jpg");
+  background-size: cover;
+  height: 250px;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20%;
+}
+
+p {
+  display: none;
+  text-align: center;
+  padding-top: 30%;
+}
